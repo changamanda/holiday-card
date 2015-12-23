@@ -11,7 +11,7 @@ body {
   font-family: Lato;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-device-width: 400px) {
   body {
     font-size: 28px;
   }
