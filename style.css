@@ -14,5 +14,6 @@ body {
 @media screen and (max-device-width: 400px) {
   body {
     font-size: 28px;
+    width: 68%;
   }
 }
