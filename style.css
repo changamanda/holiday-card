@@ -1,0 +1,12 @@
+body {
+  background-image: url('creek.jpeg');
+  background-size: cover;
+}
+
+#text {
+  width: 40%;
+  margin: 5% auto;
+  background-color: rgba(255, 255, 255, .8);
+  padding: 2% 3%;
+  font-family: Lato;
+}
